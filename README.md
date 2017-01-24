@@ -15,3 +15,6 @@
 1. In .... you need to have at least one women you communicate with
 2. In any type of talks around you, where womens participate, time they speak need to be within the middle mathematical expectation of talk time variance for all interlocutors 
 3. She need to talk about something besides a man
+
+# Conclusion
+
