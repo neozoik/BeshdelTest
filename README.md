@@ -4,6 +4,14 @@
 3. NN architecture
 4. App mockup
 
+# KPI
+1. A)Bechdel test ME
+1. B) My Environment Bechdel test
+2. A) Interrupt index Positive
+2. B) Interrupt index Negative
+3. Narrative Support index
+4. Gender IQ
+
 
 # BechdelTest 
 (/bech·del test/ n.) Known inplementation: Bechdel Test Movie Benchmark (also known as narrow Bechdel Test or weak Bechdel Test). The test was popularized by Alison Bechdel's comic Dykes to Watch Out For, in a 1985 strip called The Rule. For a nice video introduction to the subject please check out The Bechdel Test for Women in Movies on www.feministfrequency.com
