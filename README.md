@@ -1,3 +1,10 @@
+# to do list
+1. Formal beshdel test for public spaces  formulation
+2. Beshdel test manifesto
+3. NN architecture
+4. App mockup
+
+
 # BechdelTest 
 (/bech·del test/ n.) Known inplementation: Bechdel Test Movie Benchmark (also known as narrow Bechdel Test or weak Bechdel Test). The test was popularized by Alison Bechdel's comic Dykes to Watch Out For, in a 1985 strip called The Rule. For a nice video introduction to the subject please check out The Bechdel Test for Women in Movies on www.feministfrequency.com
 
