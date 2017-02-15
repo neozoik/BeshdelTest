@@ -4,6 +4,8 @@
 2. Beshdel test manifesto
 3. NN architecture
 4. App mockup
+5. Pitch
+6. Presentation
 
 
 # KPI
