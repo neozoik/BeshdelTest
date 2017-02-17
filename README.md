@@ -6,6 +6,7 @@
 4. App mockup
 5. Pitch
 6. Presentation
+7. ...
 
 
 # KPI
