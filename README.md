@@ -8,7 +8,6 @@
 6. Presentation
 7. Roadmap
 
-
 # KPI
 
 1. A)Bechdel test ME
@@ -17,7 +16,6 @@
 2. B) Interrupt index Negative
 3. Narrative Support index
 4. Gender IQ
-
 
 # BechdelTest 
 
@@ -71,7 +69,6 @@ Kaitlin posed the question to a group of 18F employees, which prompted a long co
 The conversation also caused us to think about how we holistically evaluate our inclusivity as a team. There are also many roles on our product teams other than developers that are just as important to the success of a product. Visual designers, content designers, user experience researchers: all of these roles are critical to shipping a product. Is there another way of evaluating our teams that takes these roles into consideration? This test is also limited with respect to other protected classes. It only addresses gender: race, socio-economic status, disability, and others are important considerations when building successful, diverse teams.
 
 Nevertheless, a “Bechdel Test for Code” is valuable because it addresses that tech as a whole has issues that it needs to surmount. Gender balance in engineering, therefore, needs to be acknowledged specifically even if this test isn’t the only way we measure inclusivity at 18F. It is a conversation we will continue to have at 18F to make sure we are building a team that looks like America and works like America. As our projects become Bechdel compliant, we plan to note the change.
-
 
 # Conclusion
 
