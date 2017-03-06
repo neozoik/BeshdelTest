@@ -73,3 +73,29 @@ Nevertheless, a “Bechdel Test for Code” is valuable because it addresses tha
 
 # Conclusion
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
