@@ -58,11 +58,9 @@ Check out the latest developer jobs.
 
 Nonetheless, both startups and larger companies could find the modified Bechdel Test a useful tool for opening up a discussion about gender balance within engineering and development teams.
 
-
 The coding Bechdel test, as described above, is a variant of the original Bechdel test, which was created by writer and graphic novelist Alison Bechdel. The Bechdel test was originally designed to evaluate works of fiction. A work passed if at least one woman had a conversation with another woman about something other than a man.
 
 The 18F team
-
 We decided to see how many 18F projects pass this modified test. To pass, a project had to have at least one function written by a woman dev that called another function written by another woman dev.
 
 Kaitlin posed the question to a group of 18F employees, which prompted a long conversation about our internal values and culture. The conversation started with us quickly listing the projects that passed the Bechdel coding test, but then shifted after one of our devs then raised a good point: She said some of our projects had lots of female devs, but did not pass the test as defined. 18f.gsa.gov, for example, uses a framework and language called SASS to generate the styles used on each page. The overwhelming majority of our custom SASS was written by a woman, and another woman wrote a significant amount of HTML that relies on that SASS, but because neither language has “functions” it fails the test.
