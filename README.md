@@ -11,8 +11,8 @@
 
 # KPI
 
-1. A)Bechdel test ME
-1. B) My Environment Bechdel test
+1. A) Bechdel Index ME
+1. B) My Environment Bechdel Index
 2. A) Interrupt index Positive
 2. B) Interrupt index Negative
 3. Narrative Support index
