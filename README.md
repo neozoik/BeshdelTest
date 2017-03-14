@@ -38,6 +38,7 @@
 3. She need to talk about something besides a man
 
 
+
 # A Bechdel Test For Programmers
 Posted by timothy on Tuesday March 24, 2015 @11:29AM from the this-code-feels-different dept.
 Nerval's Lobster writes:
