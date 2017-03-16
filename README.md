@@ -1,3 +1,13 @@
+
+# tools
+
+1. Indiegogo
+2. ProductHunt
+
+
+
+
+
 # To Do List ()
 
 1. Formal beshdel test for public spaces  formulation
