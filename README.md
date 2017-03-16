@@ -4,7 +4,8 @@
 1. Indiegogo
 2. ProductHunt
 3. LinkedIn
-4. 
+4. Twitter
+5. Facebook
 
 
 
