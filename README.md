@@ -6,6 +6,7 @@
 3. LinkedIn
 4. Twitter
 5. Facebook
+6. Patreon
 
 
 
