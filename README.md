@@ -10,9 +10,6 @@
 6. Patreon
 
 
-
-
-
 # To Do List ()
 
 1. Formal beshdel test for public spaces  formulation
