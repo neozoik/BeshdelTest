@@ -1,7 +1,6 @@
 
 Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
 
-
 # Tools
 
 1. Indiegogo
@@ -10,7 +9,6 @@ Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition ba
 4. Twitter
 5. Facebook
 6. Patreon
-
 
 # To Do List ()
 
