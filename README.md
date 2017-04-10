@@ -32,6 +32,8 @@ Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition ba
 3. Narrative Support index
 4. Gender IQ
 
+
+
 # BechdelTest 
 
 (/bech·del test/ n.) Known inplementation: Bechdel Test Movie Benchmark (also known as narrow Bechdel Test or weak Bechdel Test). The test was popularized by Alison Bechdel's comic Dykes to Watch Out For, in a 1985 strip called The Rule. For a nice video introduction to the subject please check out The Bechdel Test for Women in Movies on www.feministfrequency.com
