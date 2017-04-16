@@ -8,6 +8,12 @@
 
 
 
+
+
+
+
+
+
 Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
 
 # Tools
