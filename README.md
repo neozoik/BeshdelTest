@@ -30,12 +30,9 @@ Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition ba
 3. Narrative Support index
 4. Gender IQ
 
-
-
 # BechdelTest 
 
 (/bech·del test/ n.) Known inplementation: Bechdel Test Movie Benchmark (also known as narrow Bechdel Test or weak Bechdel Test). The test was popularized by Alison Bechdel's comic Dykes to Watch Out For, in a 1985 strip called The Rule. For a nice video introduction to the subject please check out The Bechdel Test for Women in Movies on www.feministfrequency.com
-
 
 # Weak Bechdel Test Movie Benchmark
 1. It has to have at least two [named] women in it
@@ -51,7 +48,6 @@ Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition ba
 1. In .... you need to have at least one women you communicate with
 2. In any type of talks around you, where womens participate, time they speak need to be within the middle mathematical expectation of talk time variance for all interlocutors 
 3. She need to talk about something besides a man
-
 
 
 # A Bechdel Test For Programmers
@@ -86,11 +82,6 @@ The conversation also caused us to think about how we holistically evaluate our 
 Nevertheless, a “Bechdel Test for Code” is valuable because it addresses that tech as a whole has issues that it needs to surmount. Gender balance in engineering, therefore, needs to be acknowledged specifically even if this test isn’t the only way we measure inclusivity at 18F. It is a conversation we will continue to have at 18F to make sure we are building a team that looks like America and works like America. As our projects become Bechdel compliant, we plan to note the change.
 
 # Conclusion
-
-
-
-
-
 
 
 
